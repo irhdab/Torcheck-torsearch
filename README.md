@@ -1,4 +1,4 @@
-# TorCheck & TorSearch 🌐
+# TorCheck & TorSearch
 
 ![Tor](https://img.shields.io/badge/Tor-7D4698?logo=torproject&logoColor=white)
 
@@ -54,8 +54,3 @@ Torcheck-torsearch/
    ```
 2. Host files on web server
 3. Access via `localhost:port`
-
-## Recommended Stack
-- Tor Browser Bundle for secure access
-- Node.js/http-server for local testing
-- Let's Encrypt SSL for production
